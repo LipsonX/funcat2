@@ -1,0 +1,6 @@
+numpy
+six
+pandas
+lxml
+TA-Lib
+cached_property
